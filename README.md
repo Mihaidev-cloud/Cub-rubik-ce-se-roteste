@@ -1,7 +1,7 @@
 
 # Cub rubik ce se roteste!
 
-Incercati noul cu rubik 3d website!
+Incercati noul cu rubik 3d website! https://mihaidev-cloud.tk/cubrubik/index.html
 
 
 
