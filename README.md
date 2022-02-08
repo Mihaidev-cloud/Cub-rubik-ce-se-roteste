@@ -4,6 +4,14 @@
 Incercati noul cu rubik 3d website!
 
 
+
+
+Preview:
+
+![1](https://user-images.githubusercontent.com/69433258/153017925-c896e037-67e6-4b2c-b0b9-8d42c541aa18.png)
+
+
+
 Update v0.2
 
 am bagat javascript si efect de stele
